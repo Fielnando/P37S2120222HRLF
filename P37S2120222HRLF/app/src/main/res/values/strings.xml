@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P3G7S2120222JDGA</string>
+    <string name="titulo">Suma de dos numeros</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="place1">Coloca el numero 1 aqui</string>
+    <string name="place2">Coloca el numero 2 aqui</string>
+    <string name="lbtncalcula">Calcular</string>
+    <string name="lresultado">Resultado:</string>
+</resources>
